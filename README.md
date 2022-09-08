@@ -1,6 +1,6 @@
 
 <div class="profile" align=center>
-  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="200em" height="200em"/>
+  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="20%" height="10%"/>
 </div>  
 
 <div class="badges" align=center>
@@ -8,7 +8,7 @@
 </div>
 
 <div class="helloTitle" align=center>
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60em" height="30em">
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%" height="1%">
 </div>
 
 ---
@@ -35,7 +35,8 @@
   ---
   
   ### :fire: My Stats:
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerevyazkoAleksey&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerevyazkoAleksey&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br>
+ ![Codewars](https://github.r2v.ch/codewars?user=PerevyazkoAleksey&stroke=%23BB432C)
 <!--
 **PerevyazkoAleksey/PerevyazkoAleksey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
