@@ -8,16 +8,21 @@
 </div>
 
 <div class="helloTitle" align=center>
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%" height="1%">
+  <h1>
+    Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%" height="1%">
+  </h1>
 </div>
-
----
-
 <div class="header" align=center>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 
+---
+
 ### :man_student: About Me :
+I'm web developer <img src="https://media.giphy.com/media/jRwtAkBBIafzhdNFAY/giphy.gif" width="4%" hieght="6%"/> from Russia.
+- :scientist:I'm develop frontend and backend for web and mobile applications.
+- :book:I would choose technical documentation instead of fantasy.
+- :zap:In my free time, I draw and watch sci-pop on YouTube.
 
 ---
 
