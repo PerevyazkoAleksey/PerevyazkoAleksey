@@ -36,7 +36,6 @@ I'm web developer <img src="https://media.giphy.com/media/jRwtAkBBIafzhdNFAY/gip
   ---
   
   ### :fire: My Stats:
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerevyazkoAleksey&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br>
  ![Codewars](https://github.r2v.ch/codewars?user=PerevyazkoAleksey&stroke=%23BB432C)
 <!--
 **PerevyazkoAleksey/PerevyazkoAleksey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
